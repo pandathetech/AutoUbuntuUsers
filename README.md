@@ -3,7 +3,7 @@ This script automates the creation of user accounts on an Ubuntu system from a l
 
 ## Prerequisites
 - Make sure you have `sudo` privileges to run administrative commands.
-- Ensure that the script `ubuntu_users.sh` and the user list file are in the same directory.
+- Ensure that the script `importubuntuusers.sh` and the user list file are in the same directory.
 
 ## Instructions
 ### 1. Place the Files in the Same Directory
