@@ -7,20 +7,20 @@ This script automates the creation of user accounts on an Ubuntu system from a l
 
 ## Instructions
 ### 1. Place the Files in the Same Directory
-Ensure that both the script file `utilisateurslinux.sh` and the text file containing the list of users are in the same directory.
+Ensure that both the script file `importubuntuusers.sh` and the text file containing the list of users are in the same directory.
    
 ### 2. Grant Execution Permissions to the Script
 To make the script executable, run the following command in your terminal.
 
 ```bash
-sudo chmod u+x ubuntu_users.sh
+sudo chmod u+x importubuntuusers.sh
 ```
 
 ### 3. Execute the Script
 Run the script using sudo to ensure it has the necessary permissions to create users.
 
 ```bash
-sudo ./utilisateurslinux.sh
+sudo ./importubuntuusers.sh
 ```
 
 ### 4. Verify User Creation
